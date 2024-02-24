@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a 2nd year BSIT student with a specialization it Business Analytics. I am currently studying at FEU Institute of Technology.
+My name is Luis Emmanuel P. Hofileña, but you can call me Hofi!<br><br><br>I am a 2nd year BSIT student with a specialization it Business Analytics. I am currently studying at FEU Institute of Technology.
 
 
 # 💻 Tech Stack:
