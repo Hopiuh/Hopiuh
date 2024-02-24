@@ -29,7 +29,7 @@
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hopiuh&langs_count=8&theme=tokyonight" alt=Hopiuh />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hopiuh&show_icons=true&locale=en&theme=tokyonight" alt="Hopiuh" /></p>
+<p>&nbsp;<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api?username=Hopiuh&show_icons=true&locale=en&theme=tokyonight" alt="Hopiuh" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Hopiuh&theme=tokyonight" alt="Hopiuh" /></p>
 
